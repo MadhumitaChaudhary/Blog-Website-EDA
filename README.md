@@ -25,12 +25,6 @@ The analysis includes the following steps:
 5. Revenue Calculation: Calculating total and average revenue.
 6. Content Performance Scoring: Categorizing content performance into 'Poor', 'Average', 'Good', and 'Excellent'.
 
-## Results
-
-The results of the analysis are visualized in various plots and summarized in the Jupyter notebook.
-
-## Future Work
-
 Future work includes more detailed analysis and the use of machine learning models for prediction and classification tasks. The project is still WIP
 
 
