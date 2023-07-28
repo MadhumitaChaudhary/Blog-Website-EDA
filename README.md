@@ -1,5 +1,7 @@
 # Blog Website Analysis
 
+Data Source: https://www.kaggle.com/datasets/madhumitachaudhary/digital-blog-site
+
 ## Project Overview
 
 This project involves the analysis of content from a Blog Website 'ABC Times'. The analysis includes:
